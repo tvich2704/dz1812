@@ -1,0 +1,15 @@
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\bin\Debug\net7.0\homwork2.exe
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\bin\Debug\net7.0\homwork2.deps.json
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\bin\Debug\net7.0\homwork2.runtimeconfig.json
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\bin\Debug\net7.0\homwork2.dll
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\bin\Debug\net7.0\homwork2.pdb
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.csproj.AssemblyReference.cache
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.AssemblyInfoInputs.cache
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.AssemblyInfo.cs
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.csproj.CoreCompileInputs.cache
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.dll
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\refint\homwork2.dll
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.pdb
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\homwork2.genruntimeconfig.cache
+C:\Users\александр\Desktop\гиг брэйнс\homwork\homwork2\obj\Debug\net7.0\ref\homwork2.dll
